@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KinoLib.Test/KinoLib.Test.csproj" Id="f7db370a-ae99-47ff-90fa-63bae1c753f8" />
+  <Project Path="RestApi1/KinoLib.Api.csproj" />
+</Solution>
